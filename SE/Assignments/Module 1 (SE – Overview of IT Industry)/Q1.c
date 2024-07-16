@@ -1,3 +1,3 @@
-// What is Language?
+// What is Software?
 
-// Ans : In software development, "language" typically refers to a programming language. A programming language is a formal language consisting of syntax (rules for constructing valid statements) and semantics (meaning of those statements) that programmers use to write instructions for a computer to execute.
+/* Ans : Software refers to a set of instructions, programs, or data used to operate computers and execute specific tasks. It encompasses everything from applications like word processors and web browsers to operating systems that manage computer hardware and provide a platform for other software to run.*/

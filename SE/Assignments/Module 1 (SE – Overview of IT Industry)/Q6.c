@@ -1,12 +1,6 @@
-// What is WWW?
+// What is Use case Diagram?
 
-/*Ans:
-WWW (World Wide Web):
-
-Definition: The World Wide Web (WWW) is an information system of interlinked hypertext documents accessed via the internet.
-Key Components:
-1. Hypertext: Allows users to navigate between documents (web pages) using hyperlinks.
-2. Internet: Operates over the internet, a global network of interconnected computers.
-3. Documents: Written in languages like HTML, CSS, and JavaScript, containing text, images, videos, etc.
-4. URLs: Unique addresses specifying the location of web pages (e.g., http://www.example.com).
-5. Web Browsers: Software used to access and view web pages (e.g., Chrome, Firefox).*/
+/*
+Ans:
+A Use Case Diagram is a type of behavioral diagram in Unified Modeling Language (UML) that illustrates the interactions between actors (users or other systems) and a system or software application. It provides a visual representation of the functional requirements of the system and helps to capture the system's behavior from a user's perspective.
+*/
